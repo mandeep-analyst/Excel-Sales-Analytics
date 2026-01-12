@@ -6,9 +6,9 @@
   
 - **Reports:**
 
-    **1.** _[Customer Performance Report](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/Customer%20Performance%20Report.pdf)_
-    **2.** _[Division Perfomance Report](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/Division%20Performance%20Report.pdf)_
-    **3.** _[Market Performance Report against Target Estimate](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/Market%20Performance%20vs%20Target.pdf)_
+ -   **1.** _[Customer Performance Report](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/Customer%20Performance%20Report.pdf)_
+ -  **2.** _[Division Perfomance Report](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/Division%20Performance%20Report.pdf)_
+-   **3.** _[Market Performance Report against Target Estimate](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/Market%20Performance%20vs%20Target.pdf)_
   
 - **Purpose of each Report:**
   
