@@ -23,8 +23,8 @@
   
 - **Reports:**
   
-_    **1.** Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)_
- _   **2.** Profit and Loss (P&L) reports by _[Markets](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20for%20Markets.pdf)_
+-   **1.** Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+  -   **2.** Profit and Loss (P&L) reports by _[Markets](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20for%20Markets.pdf)_
   
 - **Purpose of Reports:**
   
